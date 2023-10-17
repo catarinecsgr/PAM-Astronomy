@@ -2,10 +2,9 @@
 
 public partial class App : Application
 {
-	public App()
-	{
-		InitializeComponent();
-
-		MainPage = new AppShell();
-	}
+    public AppShell()
+    {
+        InitializeComponent();
+        Routing.RegisterRoute("astronomicalbodydetails", typeof(AstronomicalBodyPage));
+    }
 }

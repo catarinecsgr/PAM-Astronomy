@@ -1,1 +1,1 @@
-D:\2DS_THIAGO\PAM-Astronomy\Astronomy\Astronomy.csproj;x64
+C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\Astronomy.csproj;x64

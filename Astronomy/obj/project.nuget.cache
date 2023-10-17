@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4tZJVVL1x8sNPqRaiPoKUkxjHxboYJjKBb9ySu9eVqm/f8iN7w0iT25vgpuE1fkI00LtHchKUplUQc4euRiszQ==",
+  "dgSpecHash": "Jauw2CHn4x3wiP1jGF8Rw9ir6+WJDm27v5bJfPPqKrJ+IQQW7fqQsRbmQzXEZkxkZWTWI1wJtfCwSJzk/wpGAQ==",
   "success": true,
-  "projectFilePath": "D:\\2DS_THIAGO\\PAM-Astronomy\\Astronomy\\Astronomy.csproj",
+  "projectFilePath": "C:\\Users\\etechas\\Source\\Repos\\PAM-Astronomy\\Astronomy\\Astronomy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

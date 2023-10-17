@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Astronomy
-build_property.ProjectDir = D:\2DS_THIAGO\PAM-Astronomy\Astronomy\
+build_property.ProjectDir = C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\
 
-[D:/2DS_THIAGO/PAM-Astronomy/Astronomy/App.xaml]
+[C:/Users/etechas/Source/Repos/PAM-Astronomy/Astronomy/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/2DS_THIAGO/PAM-Astronomy/Astronomy/AppShell.xaml]
+[C:/Users/etechas/Source/Repos/PAM-Astronomy/Astronomy/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/2DS_THIAGO/PAM-Astronomy/Astronomy/Pages/AboutPage.xaml]
+[C:/Users/etechas/Source/Repos/PAM-Astronomy/Astronomy/Pages/AboutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AboutPage.xaml
 
-[D:/2DS_THIAGO/PAM-Astronomy/Astronomy/Pages/MoonPhasePage.xaml]
+[C:/Users/etechas/Source/Repos/PAM-Astronomy/Astronomy/Pages/MoonPhasePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.MoonPhasePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\MoonPhasePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\MoonPhasePage.xaml
 
-[D:/2DS_THIAGO/PAM-Astronomy/Astronomy/Pages/SunrisePage.xaml]
+[C:/Users/etechas/Source/Repos/PAM-Astronomy/Astronomy/Pages/SunrisePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.SunrisePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SunrisePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SunrisePage.xaml
 
-[D:/2DS_THIAGO/PAM-Astronomy/Astronomy/Resources/Colors.xaml]
+[C:/Users/etechas/Source/Repos/PAM-Astronomy/Astronomy/Resources/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Resources.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Colors.xaml
 
-[D:/2DS_THIAGO/PAM-Astronomy/Astronomy/Resources/Styles.xaml]
+[C:/Users/etechas/Source/Repos/PAM-Astronomy/Astronomy/Resources/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Resources.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml

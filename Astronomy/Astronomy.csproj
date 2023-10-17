@@ -49,9 +49,32 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Remove="Pages\AstronomicalBodiesPage.xaml" />
+	  <MauiXaml Remove="Pages\AstronomicalBodyPage.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <None Remove="Resources\Images\moon.png" />
 	  <None Remove="Resources\Images\question.png" />
 	  <None Remove="Resources\Images\sun.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Include="Pages\AstronomicalBodiesPage.xaml">
+	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="Pages\AstronomicalBodyPage.xaml">
+	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Pages\AstronomicalBodiesPage.xaml.cs">
+	    <DependentUpon>AstronomicalBodiesPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Pages\AstronomicalBodyPage.xaml.cs">
+	    <DependentUpon>AstronomicalBodyPage.xaml</DependentUpon>
+	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>

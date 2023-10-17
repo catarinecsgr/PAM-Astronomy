@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>15C7CBF7-BC94-44F2-A005-7FE61BD33F32</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>D:\2DS_THIAGO\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>34F3E80A83D21C4D9F96E0E0085FDEC6CEF704D6BD9015649C23B14266F53C61</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>15C7CBF7-BC94-44F2-A005-7FE61BD33F32_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>15C7CBF7-BC94-44F2-A005-7FE61BD33F32_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-25T23:06:07.513</Modified>
+      <Modified>2023-10-17T00:51:15.000</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-25T23:06:07.132</Modified>
+      <Modified>2023-10-17T00:51:14.645</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Astronomy.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Astronomy.runtimeconfig.json">
       <PackagePath>Astronomy.runtimeconfig.json</PackagePath>
-      <Modified>2023-09-25T23:06:06.882</Modified>
+      <Modified>2023-10-16T22:39:30.195</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Astronomy.dll">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Astronomy.dll">
       <PackagePath>Astronomy.dll</PackagePath>
-      <Modified>2023-09-25T23:06:05.648</Modified>
+      <Modified>2023-10-17T00:51:13.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Astronomy.exe</PackagePath>
-      <Modified>2023-09-25T23:06:05.663</Modified>
+      <Modified>2023-10-17T00:51:13.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.13\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1062,9 +1062,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-07-19T16:53:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Astronomy.deps.json">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Astronomy.deps.json">
       <PackagePath>Astronomy.deps.json</PackagePath>
-      <Modified>2023-09-25T23:06:07.351</Modified>
+      <Modified>2023-10-17T00:51:14.873</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.maui.controls.ref.win\6.0.548\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1078,253 +1078,253 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2022-11-17T18:14:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2023-09-25T23:02:12.516</Modified>
+      <Modified>2023-10-16T22:37:47.713</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
       <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.644</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
       <PackagePath>appiconfgSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.645</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
       <PackagePath>appiconfgSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.645</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
       <PackagePath>appiconfgSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.645</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
       <PackagePath>appiconfgSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.646</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-09-25T23:02:14.626</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-09-25T23:02:14.627</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-09-25T23:02:14.628</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.628</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.629</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.629</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.629</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.630</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.630</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.630</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.630</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.631</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.631</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.631</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.631</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.631</Modified>
+      <Modified>2023-10-16T22:37:50.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.632</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.632</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.632</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.633</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.633</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.633</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.633</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.634</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.634</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.634</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.634</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.635</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.635</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.636</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.636</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.636</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.637</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.637</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.637</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.637</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.638</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.638</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.638</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.638</Modified>
+      <Modified>2023-10-16T22:37:50.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.639</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.639</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.639</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.640</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.640</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.640</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.640</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.641</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.641</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.641</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.642</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.642</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.643</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\moon.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\moon.scale-100.png">
       <PackagePath>moon.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.643</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\question.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\question.scale-100.png">
       <PackagePath>question.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.644</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_THIAGO\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\etechas\Source\Repos\PAM-Astronomy\Astronomy\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\sun.scale-100.png">
       <PackagePath>sun.scale-100.png</PackagePath>
-      <Modified>2023-09-25T23:02:14.644</Modified>
+      <Modified>2023-10-16T22:37:50.807</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
